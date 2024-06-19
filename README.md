@@ -1,4 +1,5 @@
 # Cursoiot-AMC
 curso iot AMC
-Aqui se suben los ejercicios del curso 
+Aqui se suben los ejercicios del curso IoTEssentials
+
 
